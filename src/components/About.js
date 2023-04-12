@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div>
         <MyNavbar/>
-       <h3> about {name} </h3>
+       <h3> This is  about {name} </h3>
     </div>
   )
 }
